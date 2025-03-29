@@ -37,6 +37,8 @@
     "@commitlint/config-conventional": "19.2.2",
     "forge-std": "github:foundry-rs/forge-std#1.9.2",
     "halmos-cheatcodes": "github:a16z/halmos-cheatcodes#c0d8655",
+    "hats-core": "github:Hats-Protocol/hats-protocol",
+    "hats-zodiac": "github:Hats-Protocol/hats-zodiac",
     "husky": ">=9",
     "lint-staged": ">=10",
     "solhint-community": "4.0.1",

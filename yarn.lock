@@ -710,6 +710,14 @@ has-flag@^4.0.0:
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==
 
+"hats-core@github:Hats-Protocol/hats-protocol":
+  version "0.0.0"
+  resolved "https://codeload.github.com/Hats-Protocol/hats-protocol/tar.gz/cccb71a061cdb9095af7d11dfdb47026993d8c4e"
+
+"hats-zodiac@github:Hats-Protocol/hats-zodiac":
+  version "0.0.0"
+  resolved "https://codeload.github.com/Hats-Protocol/hats-zodiac/tar.gz/2c0172e979e64f6f73647adc634a4622cba465ef"
+
 human-signals@^5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-5.0.0.tgz#42665a284f9ae0dade3ba41ebc37eb4b852f3a28"
