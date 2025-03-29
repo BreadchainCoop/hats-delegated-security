@@ -1,5 +1,8 @@
 forge-std/=node_modules/forge-std/src
 halmos-cheatcodes=node_modules/halmos-cheatcodes
 
+hats-v1/=node_modules/hats-core/src
+hats-zodiac/=node_modules/hats-zodiac/src
+
 contracts/=src/contracts
 interfaces/=src/interfaces
